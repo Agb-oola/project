@@ -1,0 +1,327 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: green;
+}
+.line{
+	padding-top: 200px;
+	margin-bottom: 200px;
+
+}
+.line img{
+	border-radius: 80px;
+	width: 200px;
+	height: 160px;
+	margin-left:  600px;
+
+}
+
+.line hr {
+	width: 200px;
+	border-bottom: 1px solid lightblue;
+	margin-left: 600px;
+	margin-top: 30px;
+}
+
+.line h1{
+	text-align: center;
+	color: blue;
+	font-size: 30px;
+	margin-top: 30px;
+}
+
+.line h2{
+	text-align: center;
+	color: #fff;
+	font-size: 30px;
+	margin-top: 30px;
+}
+
+
+/*--End of Profile--*/
+.got{
+	padding-left: 100px;
+    background: gray;
+    height: 400px;
+    padding-top: 40px;
+    margin-right: 80px;
+    margin-left: 100px;
+}
+.got h1{
+	color: blue;
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+
+.got h2{
+	color: black;
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+
+.got p{
+	color: black;
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-right: 150px;
+}
+/*--End of My Profile--*/
+
+.fine{
+	background: blue;
+	margin-top: 40px;
+	height: 400px;
+	padding-left: 100px;
+	margin-right: 80px;
+	margin-left: 100px;
+}
+
+.fine h1{
+	padding-top: 50px;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+.fine p{
+	padding-top: 20px;
+	margin-bottom: 10px;
+	color: black;
+	font-size: 30px;
+}
+
+/*--End of Education--*/
+.gate{
+	padding-left: 100px;
+    background: blue;
+    margin-right: 80px;
+    margin-left: 100px;
+    height: 400px;
+    padding-top: 40px;
+    margin-top: 60px;
+
+}
+.gate h1{
+	color: white;
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+.gate h2{
+	color: black;
+	font-size: 35px;
+	margin-bottom: 25px;
+}
+
+.gate h3{
+	color: #fff;
+	font-size: 25px;
+	margin-bottom: 25px;
+}
+
+.gate p{
+	color: white;
+	font-size: 30px;
+	margin-bottom: 25px
+}
+
+.gate li{
+color: white;
+	font-size: 30px;
+	margin-bottom: 25px
+}
+
+
+
+
+.name{
+	background: pink;
+	height: 400px;
+	margin-right: 80px;
+	margin-left: 100px;
+	margin-top: 60px;
+   padding-top: 60px;
+	padding-left: 100px;
+}
+
+.name h2{
+	font-size: 45px;
+	margin-bottom: 20px;
+}
+
+.menu{
+	display: flex;
+}
+
+.menu p{
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.menu img{
+	color: black;
+	margin-top: 15px;
+}
+/*--End of Contact--*/
+
+footer
+{
+margin-top:150px;
+text-align: center;
+font-size: 35px;
+}
+
+
+@media screen and (min-width: 1664px){
+
+.line img{
+	border-radius: 150px;
+	width: 400px;
+	height: 300px;
+	margin-left:  600px;
+	}
+.line hr{
+	width: 500px;
+	border-bottom: 1px solid lightblue;
+	margin-left: 600px;
+	margin-top: 30px;
+}
+	.line h1{
+	text-align: center;
+	color: blue;
+	font-size: 50px;
+	margin-top: 60px;
+}
+
+.line h2{
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+.got{
+	padding-left: 100px;
+    background: gray;
+    height: 800px;
+    padding-top: 40px;
+    margin-right: 80px;
+    margin-left: 100px;
+}
+.got h1{
+	color: blue;
+	font-size: 80px;
+	margin-bottom: 40px;
+}
+
+.got h2{
+	color: black;
+	font-size: 70px;
+	margin-bottom: 40px;
+}
+
+.got p{
+	color: black;
+	font-size: 50px;
+	margin-bottom: 80px;
+	margin-right: 180px;
+}
+
+
+.fine{
+	margin-top: 40px;
+	height: 1000px;
+	padding-left: 100px;
+	margin-right: 80px;
+	margin-left: 100px;
+}
+
+.fine h1{
+	padding-top: 100px;
+	margin-bottom: 40px;
+	font-size: 60px;
+}
+
+.fine p{
+	padding-top: 40px;
+	margin-bottom: 40px;
+	font-size: 60px;
+}
+
+
+
+.gate{
+    height: 800px;
+    padding-top: 80px;
+    margin-top: 100px;
+
+}
+.gate h1{
+	font-size: 60px;
+	margin-bottom: 40px;
+}
+
+.gate h2{
+	font-size: 80px;
+	margin-bottom: 50px;
+}
+
+.gate h3{
+	font-size: 50px;
+	margin-bottom: 50px;
+}
+
+.gate p{
+	font-size: 60px;
+	margin-bottom: 50px
+}
+
+.gate li{
+	font-size: 60px;
+	margin-bottom: 50px
+}
+
+
+
+
+
+.name{
+	height: 800px;
+   padding-top: 60px;
+	padding-left: 100px;
+}
+
+.name h2{
+	font-size: 90px;
+	margin-bottom: 40px;
+}
+
+.menu p{
+	margin-bottom: 60px;
+	margin-left: 20px;
+	margin-top: 40px;
+	font-size: 50px;
+}
+
+.menu img{
+	color: black;
+	margin-top: 50px;
+	width: 90px;
+}
+
+footer
+{
+margin-top:400px;
+font-size: 60px;
+padding-bottom: 200px;
+}
+
+
+
+
+
+
+
+}
